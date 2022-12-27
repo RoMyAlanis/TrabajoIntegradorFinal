@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22-dic-2022, 21:47:45
+    Author     : Romina
+*/
+#barra
+{
+    background-color:rgb(226, 210, 241);
+    
+    
+}
+#tituloBarra
+{
+    color: rgb(218, 50, 162);
+}
+#titulo
+{
+    color: rgb(218, 50, 162);
+    text-align: center;
+}
